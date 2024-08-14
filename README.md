@@ -4,4 +4,4 @@
 - 💬 I'm a trained Data Analyst and Statistician.
 - 👯 Passionate about leveraging data to solve business challenges and address humanitarian issues.
 - 🌱 I’m currently learning data science.
-- 📫 Stay updated on my professional journey and let's connect on [Linkedin](linkedin.com/in/peace-o-030a28112)
+- 📫 Stay updated on my professional journey and let's connect on Linkedin.
